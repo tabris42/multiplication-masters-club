@@ -1,0 +1,21 @@
+{
+  "name": "MultiTablas - Aprende Multiplicando",
+  "short_name": "MultiTablas",
+  "description": "Aprende las tablas de multiplicar de forma divertida",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#7c3aed",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
